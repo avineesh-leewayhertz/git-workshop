@@ -16,5 +16,5 @@ function msg(){
 
 /*This is my main branch */
 
-/*This is my FB1 branch */
+/*This is my FB2 branch */
 
